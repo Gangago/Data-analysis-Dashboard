@@ -1,4 +1,4 @@
-# HR analysis-Dashboard(Interactive Dashboard creation using Tableau public)
+Dashboard # HR analysis-Dashboard(Interactive Dashboard creation using Tableau public)
 ## Project objective
 A Chocolate factory HR wants to create staff's information report. So that, the owner of the factory can understand their employee details over the years. 
 
@@ -16,3 +16,5 @@ A Chocolate factory HR wants to create staff's information report. So that, the 
 - Employee filter by starting letter
 - Leave balance analysis
 - Quick HR Dashboard
+- Dashboard Interaction <a href="https://github.com/Gangago/Data-analysis-Dashboard/blob/main/tableauproject%20image.PNG"></a>
+<a href="https://github.com/Gangago/Data-analysis-Dashboard/blob/main/tableau%20image%202.PNG">View Dashboard</a>
