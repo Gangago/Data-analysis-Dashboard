@@ -1,2 +1,3 @@
-# Data-analysis-Dashboard
-I developed a comprehensive HR analysis project using Tableau  and used concepts like calculated measures and columns, customizing visuals ,created histograms and box plots, field formatting then used filters, actions and context. Finally setting up a dashboard
+# HR analysis-Dashboard(Interactive Dashboard creation using Tableau public)
+## Project objective
+A Chocolate factory HR wants to create staff's information report,the owner of the factory can understand their employee details over the years. 
